@@ -1,9 +1,3 @@
----
-output:
-  word_document: default
-  html_document: default
-  pdf_document: default
----
 # Singapore Macroeconomic Research
 
 Two applied econometric analyses of Singapore's macroeconomic dynamics, using World Bank World Development Indicators (WDI) data spanning 1980–2024. Both projects were completed as part of independent research coursework for a BSc (Hons) Economics degree at the University of East Anglia.
